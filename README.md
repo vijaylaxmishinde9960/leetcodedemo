@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijaylaxmishinde9960/leetcodedemo/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vijaylaxmishinde9960/leetcodedemo/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Sorting
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vijaylaxmishinde9960/leetcodedemo/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
