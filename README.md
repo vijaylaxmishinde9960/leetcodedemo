@@ -17,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vijaylaxmishinde9960/leetcodedemo/tree/master/0001-two-sum) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vijaylaxmishinde9960/leetcodedemo/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Sorting
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vijaylaxmishinde9960/leetcodedemo/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vijaylaxmishinde9960/leetcodedemo/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
